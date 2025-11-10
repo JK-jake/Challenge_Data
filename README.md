@@ -1,4 +1,5 @@
-##CHALLENGE DATA **En este proyecto se desarrollo en alanilisis de 4 tiendad con las cuales se determinara que tienda genera mas y menos ingresos, ya que nuestro cliente el Sr Juan quiere que le ayudemos a tomar las desiciones de que tienda se vende o se invierte.
+##CHALLENGE DATA **
+En este proyecto se desarrollo en alanilisis de 4 tiendad con las cuales se determinara que tienda genera mas y menos ingresos, ya que nuestro cliente el Sr Juan quiere que le ayudemos a tomar las desiciones de que tienda se vende o se invierte.
 
 Objetivo 
 -Análisis de facturación 
